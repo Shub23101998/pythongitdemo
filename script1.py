@@ -1,1 +1,1 @@
-print "whatup buddy V7")
+print ("whatup buddy V7")
